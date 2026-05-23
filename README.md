@@ -50,6 +50,7 @@
 - **[STK (Systems Tool Kit)](https://www.agi.com/products/stk)** - A commercial software for modeling and simulating space missions.
 - **[OREKIT](https://www.orekit.org/)** - A Java library for orbital mechanics and spacecraft navigation.
 - **[POLARIS](https://polaris.dreamchaser.space/)** - An open-source spacecraft mission planning tool.
+- **[NodalArc](https://github.com/dotchance/nodalarc)** - An open-source satellite network emulator that drives real Linux routing stacks (FRR with IS-IS, OSPF, BGP, MPLS) from live orbital mechanics, for studying constellation routing, handoffs, and link dynamics.
 
 ## Propulsion Systems
 
