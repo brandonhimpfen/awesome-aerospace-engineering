@@ -36,6 +36,7 @@
 - **[XFLR5](http://www.xflr5.com/)** - A tool for analyzing airfoils and wing aerodynamics.
 - **[SU2](https://su2code.github.io/)** - An open-source CFD tool for performing aerodynamic shape optimization.
 - **[AVL](https://web.mit.edu/drela/Public/web/avl/)** - A tool for aerodynamic and flight-dynamics analysis of aircraft configurations.
+- **[Ptera Software](https://github.com/camUrban/PteraSoftware/)** - Ptera Software is a fast, easy-to-use, and open-source software package for analyzing flapping-wing flight.
 
 ## Flight Simulation and Modeling
 
