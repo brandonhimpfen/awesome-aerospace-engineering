@@ -59,7 +59,7 @@
 - **[NPSS (Numerical Propulsion System Simulation)](https://www.npssconsortium.org/)** - A framework for simulating propulsion systems.
 - **[RPA (Rocket Propulsion Analysis)](http://propulsion-analysis.com/)** - A tool for preliminary design of rocket engines.
 - **[HOTSHOT](https://hotshot.jpl.nasa.gov/)** - A propulsion simulation tool developed by NASA's Jet Propulsion Laboratory.
-- **[OpenFLUME](https://github.com/OpenFLUME/OpenFLUME)** - An open-source thermo-fluid network solver (GFSSP class) for propellant feed systems, tank pressurization, and cryogenic lines, usable from a no-install browser UI or from Python (`pip install openflume`).
+- **[OpenFLUME](https://github.com/OpenFLUME/OpenFLUME)** - Open source thermo-fluid solver for propellant feed systems, tank pressurization, cryogenic flow, and combustion modeling.
 
 ## Materials and Structures
 
