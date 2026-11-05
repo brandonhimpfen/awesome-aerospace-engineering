@@ -67,6 +67,7 @@
 - **[Ansys Composite PrepPost](https://www.ansys.com/)** - A tool for simulating composite material performance in aerospace designs.
 - **[PyNASTRAN](https://pynastran.readthedocs.io/)** - A Python interface for analyzing finite element models in NASTRAN.
 - **[LAMMPS](https://lammps.sandia.gov/)** - A molecular dynamics simulator for studying materials at the atomic level.
+- **[Space Mushroom](https://spacemushroom.com/)** - Free, open database of space materials and space products (rockets, engines, telescopes, spacesuits), with each fact linked to its source.
 
 ## Aerospace Software and Tools
 
