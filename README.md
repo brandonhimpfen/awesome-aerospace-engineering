@@ -95,6 +95,7 @@
 - **[Airliners.net](https://www.airliners.net/)** - A community for aerospace enthusiasts and professionals.
 - **[NASA Software Catalog](https://software.nasa.gov/)** - A catalog of free NASA-developed software.
 - **[AIAA Forums](https://engage.aiaa.org/home)** - Discussion boards for aerospace professionals.
+- **[SpaceJobs.Now](https://spacejobs.now/)** - Open jobs and internships at space companies, read daily from their careers sites, with posted pay.
 
 ## Contribute
 
